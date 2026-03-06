@@ -1,0 +1,20 @@
+[
+    {
+        "Author": "Richter",
+        "Name": "UkrChat Support",
+        "Punchline": "Support for Ukrainian characters in chat.",
+        "Description": "Support for Ukrainian characters in FFXIV text chat and input field (і, ї, є).",
+        "InternalName": "UkrChatSupport",
+        "AssemblyVersion": "0.1",
+        "TestingAssemblyVersion": null,
+        "RepoUrl": "https://github.com/richtertarnished/ukr_chat",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/richtertarnished/ukr_chat/releases/download/release/latest.zip",
+        "DownloadLinkTesting": "https://github.com/richtertarnished/ukr_chat/releases/download/release/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/richtertarnished/ukr_chat/releases/download/release/latest.zip",
+        "LastUpdate": "1701231234"
+    }
+]
