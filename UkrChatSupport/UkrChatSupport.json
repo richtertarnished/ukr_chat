@@ -1,0 +1,15 @@
+{
+  "Author": "Richter",
+  "Name": "UkrChat Support",
+  "Punchline": "Support for Ukrainian characters in chat.",
+  "Description": "Support for Ukrainian characters in FFXIV text chat and input field (і, ї, є).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "chat",
+    "ukrainian",
+    "ukr"
+  ],
+  "CategoryTags": [
+    "Utility"
+  ]
+}
