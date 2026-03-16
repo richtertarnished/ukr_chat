@@ -1,8 +1,10 @@
 {
   "Author": "Richter",
-  "Name": "UkrChat Support",
-  "Punchline": "Support for Ukrainian characters in chat.",
-  "Description": "Support for Ukrainian characters in FFXIV text chat and input field (і, ї, є).",
+  "Name": "Support for Ukrainian in chat",
+  "Punchline": "Support for Ukrainian characters in chat input field.",
+  "Description": "Support for Ukrainian characters in chat input field. When using the Ukrainian keyboard layout, this plugin remaps keys so that Ukrainian letters are correctly entered in the chat input.",
+  "RepoUrl": "https://github.com/richtertarnished/ukr_chat",
+  "IconUrl": "https://raw.githubusercontent.com/richtertarnished/ukr_chat/master/UkrChatSupport/images/icon.png",
   "ApplicableVersion": "any",
   "Tags": [
     "chat",
