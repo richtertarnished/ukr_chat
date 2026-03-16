@@ -7,7 +7,6 @@
         "InternalName": "UkrChatSupport",
         "TestingAssemblyVersion": null,
         "RepoUrl": "https://github.com/richtertarnished/ukr_chat",
-        "IconUrl": "https://raw.githubusercontent.com/richtertarnished/ukr_chat/master/UkrChatSupport/images/icon.png",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
         "IsHide": false,
