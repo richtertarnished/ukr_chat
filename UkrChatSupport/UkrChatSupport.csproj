@@ -3,7 +3,7 @@
   <PropertyGroup>
     <RootNamespace>UkrChatSupport</RootNamespace>
     <AssemblyName>UkrChatSupport</AssemblyName>
-    <Version>0.1</Version>
+    <Version>1.0.0</Version>
     <Description>Support for Ukrainian characters in FFXIV text chat and input field.</Description>
     <PackageProjectUrl>https://github.com/richtertarnished/ukr_chat</PackageProjectUrl>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
