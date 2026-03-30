@@ -5,6 +5,7 @@
         "Punchline": "Support for Ukrainian characters in chat input field.",
         "Description": "Support for Ukrainian characters in chat input field. When using the Ukrainian keyboard layout, this plugin remaps keys so that Ukrainian letters are correctly entered in the chat input.",
         "InternalName": "UkrChatSupport",
+        "AssemblyVersion": "1.0.0",
         "TestingAssemblyVersion": null,
         "RepoUrl": "https://github.com/richtertarnished/ukr_chat",
         "ApplicableVersion": "any",
@@ -14,6 +15,6 @@
         "DownloadLinkInstall": "https://github.com/richtertarnished/ukr_chat/releases/download/v1.0.0/latest.zip",
         "DownloadLinkTesting": "https://github.com/richtertarnished/ukr_chat/releases/download/v1.0.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/richtertarnished/ukr_chat/releases/download/v1.0.0/latest.zip",
-        "LastUpdate": "1701231234"
+        "LastUpdate": "1774895840"
     }
 ]
