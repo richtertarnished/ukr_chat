@@ -19,7 +19,7 @@ jobs:
     - name: Install .NET
       uses: actions/setup-dotnet@v5
       with:
-        dotnet-version: 9.0.x
+        dotnet-version: 10.0.x
 
     - name: Download Dalamud
       run: |
@@ -27,7 +27,7 @@ jobs:
         Expand-Archive -Force latest.zip "$env:AppData\XIVLauncher\addon\Hooks\dev"
 
     - name: Build with dotnet
-      run: dotnet build --configuration Release
+      run: dotnet build UkrChatSupport.sln --configuration Release
 
     - name: Store artifacts
       uses: actions/upload-artifact@v4
